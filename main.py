@@ -9,3 +9,4 @@ a = 1
 player.learn(100000)
 
 b = 1
+asdf
